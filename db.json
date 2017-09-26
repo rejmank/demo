@@ -3,7 +3,7 @@
   "name":"Jan",
   "Surname": "Novák",
   "ID": 1,
-  "number_of_missions: 5,
+  "number_of_missions": 5,
   "email": "novak@jan.com",
   "phone_number": "604473021"
 },
@@ -11,7 +11,7 @@
   "name":"Petr",
   "Surname": "Novák",
   "ID": 2,
-  "number_of_missions: 3,
+  "number_of_missions": 3,
   "email": "novak@jan.com",
   "phone_number": "604473021"
 },
@@ -19,7 +19,7 @@
   "name":"Jiří",
   "Surname": "Novák",
   "ID": 3,
-  "number_of_missions: 4,
+  "number_of_missions": 4,
   "email": "novak@jan.com",
   "phone_number": "604473021"
 },
@@ -27,7 +27,7 @@
   "name":"Ondřej",
   "Surname": "Novák",
   "ID": 4,
-  "number_of_missions: 2,
+  "number_of_missions": 2,
   "email": "novak@jan.com",
   "phone_number": "604473021"
 }]
